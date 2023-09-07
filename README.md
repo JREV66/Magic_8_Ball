@@ -9,3 +9,4 @@ Follow the instructions in the .java file to create a Java program to predict a 
 * Memory of past questions
 * Expanding to handle more than yes/non questions
 # Magic-8-Ball
+# Magic8Ball
